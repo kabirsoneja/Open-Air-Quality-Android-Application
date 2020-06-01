@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Heroku JAR">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Heroku JAR" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../Heroku JAR" recursive="false" />
+  </library>
+</component>

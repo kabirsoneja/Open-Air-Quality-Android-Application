@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Project4Task2WebService:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Project4Task2WebService_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Project4Task2WebService/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Project4Task2WebService" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/../Desktop/JAR For DS/bson-3.11.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../Desktop/JAR For DS/json-simple-1.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../Desktop/JAR For DS/json-simple-1.1.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../Desktop/JAR For DS/mongodb-driver-3.11.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../Desktop/JAR For DS/mongodb-driver-core-3.11.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../Desktop/JAR For DS/mongodb-driver-sync-3.11.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../Desktop/JAR For DS/mongodb-driver-legacy-3.11.2.jar" />
+          <element id="library" level="project" name="Heroku JAR" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
